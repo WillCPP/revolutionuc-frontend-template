@@ -5,7 +5,7 @@
   top: 0;
   left: 0;
   z-index: 10;
-  background-color: $prim-color-2;
+  background-color: $black;
   padding: 0;
   margin: 0;
 
@@ -43,7 +43,7 @@
           display: inline-block;
 
           a {
-            color: $prim-color-3;
+            color: $white;
             text-decoration: none;
             padding: $btn-padding;
             font-size: 17px;
@@ -51,7 +51,7 @@
 
             &:hover,
             &.navbar__active {
-              background-color: $prim-color-3;
+              background-color: $prim-color-6;
               color: $prim-color-1;
             }
 
