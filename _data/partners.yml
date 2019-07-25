@@ -17,15 +17,20 @@
 
 - name: Partner 1
   link: /sponsors/
-  image: /img/sponsors/cyberatuc.svg
-  svg: true
+  image: /img/sponsors/placeholder.png
+  # webp: /img/sponsors/placeholder.webp
 
 - name: Partner 2
   link: /sponsors/
-  image: /img/sponsors/mlh.svg
-  svg: true
+  image: /img/sponsors/placeholder.png
+  # webp: /img/sponsors/placeholder.webp
 
 - name: Partner 3
   link: /sponsors/
-  image: /img/sponsors/uc-undergrad-research.jpg
-  webp: /img/sponsors/uc-undergrad-research.webp
+  image: /img/sponsors/placeholder.png
+  # webp: /img/sponsors/placeholder.webp
+
+# - name: Partner 4
+#   link: /sponsors/
+#   image: /img/sponsors/placeholder.svg
+#   svg: true
